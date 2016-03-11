@@ -1,0 +1,59 @@
+.button-categories{
+    margin-top: 1em;
+}
+
+.goods-categories {
+    margin-top: 1em;
+}
+
+.button-categories button {
+    margin-bottom: 0.2em;
+}
+
+.goods-information {
+    display: block;
+}
+
+.good-image {
+    width: 80%;
+    height: auto;
+}
+
+.table tbody>tr>td.vert-align
+{
+    vertical-align: middle;
+}
+
+.footer {
+    padding: 2em 0 2em;
+}
+
+.navbar, .footer {
+    color: #d8d8d8;
+    background-color: #3d4041;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #d8d8d8;
+}
+
+.navbar-default .navbar-brand {
+    color: #d8d8d8;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #d8495c;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #d8495c;
+}
+
+.footer .glph {
+    font-size: 30px;
+}
+
+.cart-total-sum {
+    margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+}
